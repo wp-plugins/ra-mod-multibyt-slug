@@ -4,7 +4,7 @@ Plugin Name: RA - Mod Multibyt Slug
 Description: When the multi-byte character is used in slug of new creation post, it changes so that post_type and post_ID may be used.
 Author: Rasin (skuraomoto)
 Author URI: http://www.rains.jp/
-Version: 1.0.0
+Version: 1.0.2
 License: GPLv2
 Text Domain: rains-mmsn
 Domain Path: /languages/

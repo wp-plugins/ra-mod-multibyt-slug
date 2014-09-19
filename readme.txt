@@ -1,9 +1,9 @@
 === RA - Mod Multibyt Slug ===
-Contributors: Rasin (skuraomoto)
+Contributors: skuramoto
 Tags: rains, slug, multibyte, Japanese
 Requires at least: 4.0
 Tested up to: 4.0
-Stable tag: 1.0.0
+Stable tag: 1.0.2
 
 When the multi-byte character is used in slug of new creation post, it changes so that post_type and post_ID may be used.
 
@@ -15,6 +15,12 @@ When the multi-byte character is used in slug of new creation post, it changes s
 2. Activate the plugin through the Plugins menu in WordPress.
 
 == Changelog ==
+
+= 1.0.2 =
+* Version Number fix.
+
+= 1.0.1 =
+* Contributors name fix.
 
 = 1.0.0 =
 * Registration to the plug-in directory.

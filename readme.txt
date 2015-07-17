@@ -3,7 +3,7 @@ Contributors: skuramoto
 Tags: rains, slug, multibyte, Japanese
 Requires at least: 4.0
 Tested up to: 4.2.2
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 
 When the multi-byte character is used in slug of new creation post, it changes so that post_type and post_ID may be used.
 
@@ -15,6 +15,9 @@ When the multi-byte character is used in slug of new creation post, it changes s
 2. Activate the plugin through the Plugins menu in WordPress.
 
 == Changelog ==
+
+= 1.0.4 =
+* Fix spellmiss
 
 = 1.0.3 =
 * Compatibility Check.
